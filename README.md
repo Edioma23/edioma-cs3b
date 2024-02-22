@@ -1,6 +1,8 @@
 # Welcome to streamlit
 
-by: ANGELA MAE F.EDIOMA
+by: ANGELA MAE F.EDIOMAf
+
+[My Published app](https://edioma-cs3b-q961iz11v2m.streamlit.app/)
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
